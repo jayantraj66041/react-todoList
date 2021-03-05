@@ -6,7 +6,6 @@ function App() {
     <div className="container">
       <div className="row">
         <div className="col-7 mx-auto">
-          <Insert/>
           <Todolist/>
         </div>
       </div>
